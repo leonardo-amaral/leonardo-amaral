@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leonardo-amaral
+- 👀 I’m interested in  técnologia, projeto, aprender mais, atuar na minha aréa, programar, desenvolver, e acrescentar no mundo de alguma forma.
+- 🌱 I’m currently learning  Técnologia da informacão,  estou na faculdade, porém estou me aprofundando mais por conta própria, em HTML, CSS e JAVASCRIPT
+- 💞️ I’m looking to collaborate on em alguma empresa, ou grupo com as minhas habilidades, e principalmente pare está me desenvolvendo e aprendendo mais.
+- 📫 How to reach me .... simples, me mande um email: leozero103@gmail.com
