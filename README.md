@@ -1,10 +1,4 @@
-<!-- - 👋 Hi, I’m @leonardo-amaral
-- 👀 I’m interested in  technology, design, learn more, work in my area, program, develop, add to the world in some way.
-- 🌱 I’m currently learning  Information technology, I'm in college, but I'm delving deeper on my own, in HTML, CSS and JAVASCRIPT
-- 💞️ I’m looking to collaborate onsome company, or group with my skills, and mainly stop is developing me and learning more.
-- 📫 How to reach me .... simple, send me an email: leozero103@gmail.com
- -->
- 
+
 <div align="center">
   <a href="https://github.com/leonardo-amaral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo-amaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
