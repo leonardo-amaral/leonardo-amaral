@@ -1,3 +1,6 @@
+<div>
+<h1 align="center">Leonardo De Almeida Amaral</h1>
+</div>
 
 <div align="center">
   <a href="https://github.com/leonardo-amaral">
