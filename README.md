@@ -1,6 +1,5 @@
 <div>
 <h1 align="center">Leonardo De Almeida Amaral</h1>
-*Hello, I'm **Leo**, a little young programmer**Steve**, I like **Coding** and I love talking about **Coding** and I'm a senior programmer.*
 </div>
 
 <div align="center">
