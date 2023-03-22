@@ -14,14 +14,14 @@ This is some technologies, that I know.
 - Design: Figma, AdobeXD, Illustrator, Photoshop, Adobe Premier.
 - Deploy: Docker, Git, Vercel...
 
-## :link: Redes Sociais
+## :link: Social Midia
 Você pode me encontrar nas seguintes redes sociais:
 
 - Linkedin: [/leonardo-amaral](https://www.linkedin.com/in/leonardo-almeida-amaral/)
 - Instagram: [/leonardo-amaral](https://www.instagram.com/nizoelll/)
 - Twitter: [/leonardo-amaral](https://twitter.com/nizooel)
 
-## :bar_chart: Estatísticas
+## :bar_chart: Statistics
 
 <div align="center">
   <a href="https://github.com/leonardo-amaral">
