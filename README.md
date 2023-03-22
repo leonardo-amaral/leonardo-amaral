@@ -1,6 +1,27 @@
-<div>
-<h1 align="center">Leonardo De Almeida Amaral</h1>
-</div>
+# Hello, I'm Leo!
+
+I'm a FullStack Developer, with knowledge in developing integrated, clean and modern systems. With knowledge in the following skills: JavaScript and its frameworks (React JS, React Native, NodeJS, NextJs), REST API, Database, Design Patterns.
+Contact:
+leonardoalmeidamaral@gmail.com
+
+
+## :computer: Technologies
+This is some technologies, that I know.
+
+- Front End: HTML, CSS, JS, ReactJS, NextJS, ChakraUI, Styled-Components....
+- Back End: NodeJS, Go, Java, TypeScript
+- Database: PostgreSQL e Sqlite
+- Design: Figma, AdobeXD, Illustrator, Photoshop, Adobe Premier.
+- Deploy: Docker, Git, Vercel...
+
+## :link: Redes Sociais
+Você pode me encontrar nas seguintes redes sociais:
+
+- Linkedin: [/leonardo-amaral](https://www.linkedin.com/in/leonardo-almeida-amaral/)
+- Instagram: [/leonardo-amaral](https://www.instagram.com/nizoelll/)
+- Twitter: [/leonardo-amaral](https://twitter.com/nizooel)
+
+## :bar_chart: Estatísticas
 
 <div align="center">
   <a href="https://github.com/leonardo-amaral">
